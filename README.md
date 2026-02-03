@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/banner.png" alt="Banner IR Analytics" width="100%">
+  <img src="images/banner.png" alt="Banner SmartLeão" width="100%">
 </div>
 
 <div align="center">
@@ -16,16 +16,28 @@
 
 </div>
 
-# 🦁 IR Analytics: Gestão Inteligente de IRPF
+# SmartLeão: Gestão Inteligente de IRPF
 
 > ℹ️ **NOTE:** Este projeto aplica conceitos de **Modelagem de Dados** e **UX Design** para transformar a caótica organização de documentos fiscais em um sistema estruturado e validado.
+
+## 📥 Acesso ao Projeto
+
+Você pode baixar a versão mais recente da ferramenta clicando no botão abaixo:
+
+<div align="center">
+  <a href="./SmartLeao.xlsx" target="_blank">
+    <img src="https://img.shields.io/badge/⬇️_BAIXAR_PLANILHA_(.XLSX)-005A9C?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Baixar SmartLeão">
+  </a>
+</div>
+
+---
 
 ## 📱 A Solução (Preview)
 
 *Interface sóbria ("Dark Blue"), focada na integridade dos dados e livre de poluição visual.*
 
 <div align="center">
-  <img src="images/preview.png" alt="Screenshot do IR Analytics" width="100%">
+  <img src="images/preview.png" alt="Screenshot do SmartLeão" width="100%">
 </div>
 
 ---
@@ -92,7 +104,7 @@ Para potencializar o desenvolvimento, utilizei IA como copiloto de análise:
     </td>
     <td>
       <strong>Sobre mim:</strong><br>
-      Analista de Contabilidade migrando para a área de Dados. Focado em criar soluções que unem a conformidade contábil com a inteligência analítica. No projeto <strong>IR Analytics</strong>, busquei aplicar minha visão de negócio para transformar uma tarefa burocrática em um processo de dados eficiente.
+      Analista de Contabilidade migrando para a área de Dados. Focado em criar soluções que unem a conformidade contábil com a inteligência analítica. No projeto <strong>SmartLeão</strong>, busquei aplicar minha visão de negócio para transformar uma tarefa burocrática em um processo de dados eficiente.
     </td>
   </tr>
 </table>
