@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/banner.png" alt="Banner SmartLeão" width="100%">
+  <img src="banner_smartleao.png" alt="Banner SmartLeão" width="100%">
 </div>
 
 <div align="center">
@@ -18,15 +18,15 @@
 
 # SmartLeão: Gestão Inteligente de IRPF
 
-> ℹ️ **NOTE:** Este projeto aplica conceitos de **Modelagem de Dados** e **UX Design** para transformar a caótica organização de documentos fiscais em um sistema estruturado e validado.
+> ℹ️ **NOTE:** Este projeto aplica conceitos de **Modelagem de Dados** e **UX Design** para transformar a caótica organização de documentos fiscais em um sistema estruturado e validado no Excel.
 
 ## 📥 Acesso ao Projeto
 
 Você pode baixar a versão mais recente da ferramenta clicando no botão abaixo:
 
 <div align="center">
-  <a href="./SmartLeao.xlsx" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_BAIXAR_PLANILHA_(.XLSX)-005A9C?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Baixar SmartLeão">
+  <a href="./Excel%20-%20Controle%20Imposto%20de%20Renda%202026.xlsx" target="_blank">
+    <img src="https://img.shields.io/badge/⬇️_BAIXAR_PLANILHA_(.XLSX)-005A9C?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Baixar Planilha">
   </a>
 </div>
 
@@ -36,8 +36,16 @@ Você pode baixar a versão mais recente da ferramenta clicando no botão abaixo
 
 *Interface sóbria ("Dark Blue"), focada na integridade dos dados e livre de poluição visual.*
 
+### Painel Principal (Notas & Resumo)
 <div align="center">
-  <img src="images/preview.png" alt="Screenshot do SmartLeão" width="100%">
+  <img src="app_smartleao.jpg" alt="Painel Principal do SmartLeão" width="100%">
+</div>
+
+<br>
+
+### Cadastro do Titular
+<div align="center">
+  <img src="app_smartleao_titular.jpg" alt="Aba Titular do SmartLeão" width="100%">
 </div>
 
 ---
@@ -83,7 +91,7 @@ Para potencializar o desenvolvimento, utilizei IA como copiloto de análise:
 
 - **Microsoft Excel 365:** Motor de banco de dados e interface.
 - **ChatGPT / Gemini:** Utilizados para refinar a lógica das categorias dedutíveis e gerar a paleta de cores "Dark Blue".
-- **Image Generation:** Criação da logo (Leão Geométrico) e identidade visual.
+- **Image Generation:** Criação da logo (Leão Geométrico) e identidade visual do banner.
 
 ---
 
